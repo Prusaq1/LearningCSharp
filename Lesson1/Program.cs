@@ -45,8 +45,6 @@ namespace Lesson1
                 
         }
                 
-           
-
             /*Console.WriteLine(Arrov[3] + " |  " + Arrov[4] + " |  " + Arrov[5]);
             Console.WriteLine("-------------------");
             Console.WriteLine(Arrov[6] + " |  " + Arrov[7] + " |  " + Arrov[8]);

@@ -109,6 +109,7 @@
                     case 17:
                     case 18:
                     case 19:
+
                         index1 = index1 - 1;
                         break;
                 }

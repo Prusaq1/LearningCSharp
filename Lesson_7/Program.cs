@@ -1,16 +1,14 @@
 ﻿namespace Lesson_7
 {
-    abstract static void Main();
-    abstract class Animal
-       {
-           public abstract void Speak();
-       }
-    class Fish : Animal
+    internal class Program
     {
-        public override void Speak()
+        public static void Main()
         {
-            Console.WriteLine("Буль-Bool");
+            Fish fish = new Fish();
+            fish.Speak();
+            fish.name = "Valera";
+            Console.WriteLine(fish.name);
         }
     }
-
 }
+    
