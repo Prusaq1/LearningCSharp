@@ -8,7 +8,6 @@ namespace Lesson_7
 {
     class Worm :Animal
     {
-        int Long;
         public override void Speak()
         { Console.WriteLine("Don't speak");}
         public override void Moov()

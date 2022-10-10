@@ -8,7 +8,6 @@ namespace Lesson_7
 {
     public abstract class Animal
     {
-        int age;
         public abstract void Speak();
         public abstract void Moov();
         public abstract void PreferredFood();
